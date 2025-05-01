@@ -53,6 +53,8 @@
         "typeinfo": "cpp",
         "unordered_map": "cpp",
         "variant": "cpp",
-        "algorithm": "cpp"
-    }
+        "algorithm": "cpp",
+        "dotnetSDKLocation": "/usr/local/share/dotnet"
+    },
+    "dotnet.defaultSolution": "lab9.sln"
 }
