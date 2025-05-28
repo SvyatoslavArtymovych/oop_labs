@@ -55,4 +55,15 @@ class MatrixAnalyzer
 
         return max;
     }
+    public int SumOfNegativeElements()
+    {
+        int sum = 0;
+        foreach (int val in matrix)
+        {
+            if (val < 0)
+                sum += val;
+        }
+        return sum;
+    }
+
 }

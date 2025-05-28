@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\\u041E\u041E\u041F\\\u041E\u041E\u041F \u0421\u0432\u044F\u0442\u043E\u0441\u043B\u0430\u0432\\lab12_13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5134CDE6-CAB4-4E29-867B-B5921E267080}|lab11_13\\lab11_13.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\\u043E\u043E\u043F\\\u043E\u043E\u043F \u0441\u0432\u044F\u0442\u043E\u0441\u043B\u0430\u0432\\lab12_13\\lab11_13\\resultlab12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5134CDE6-CAB4-4E29-867B-B5921E267080}|lab11_13\\lab11_13.csproj|solutionrelative:lab11_13\\resultlab12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5134CDE6-CAB4-4E29-867B-B5921E267080}|lab11_13\\lab11_13.csproj|C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\\u041E\u041E\u041F\\\u041E\u041E\u041F \u0421\u0432\u044F\u0442\u043E\u0441\u043B\u0430\u0432\\lab12_13\\lab11_13\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5134CDE6-CAB4-4E29-867B-B5921E267080}|lab11_13\\lab11_13.csproj|solutionrelative:lab11_13\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5134CDE6-CAB4-4E29-867B-B5921E267080}|lab11_13\\lab11_13.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\\u043E\u043E\u043F\\\u043E\u043E\u043F \u0441\u0432\u044F\u0442\u043E\u0441\u043B\u0430\u0432\\lab12_13\\lab11_13\\ship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5134CDE6-CAB4-4E29-867B-B5921E267080}|lab11_13\\lab11_13.csproj|solutionrelative:lab11_13\\ship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5134CDE6-CAB4-4E29-867B-B5921E267080}|lab11_13\\lab11_13.csproj|C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\\u041E\u041E\u041F\\\u041E\u041E\u041F \u0421\u0432\u044F\u0442\u043E\u0441\u043B\u0430\u0432\\lab12_13\\lab11_13\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5134CDE6-CAB4-4E29-867B-B5921E267080}|lab11_13\\lab11_13.csproj|solutionrelative:lab11_13\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5134CDE6-CAB4-4E29-867B-B5921E267080}|lab11_13\\lab11_13.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\\u043E\u043E\u043F\\\u043E\u043E\u043F \u0441\u0432\u044F\u0442\u043E\u0441\u043B\u0430\u0432\\lab12_13\\lab11_13\\resultlab12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5134CDE6-CAB4-4E29-867B-B5921E267080}|lab11_13\\lab11_13.csproj|solutionrelative:lab11_13\\resultlab12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5134CDE6-CAB4-4E29-867B-B5921E267080}|lab11_13\\lab11_13.csproj|C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\\u041E\u041E\u041F\\\u041E\u041E\u041F \u0421\u0432\u044F\u0442\u043E\u0441\u043B\u0430\u0432\\lab12_13\\lab11_13\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5134CDE6-CAB4-4E29-867B-B5921E267080}|lab11_13\\lab11_13.csproj|solutionrelative:lab11_13\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5134CDE6-CAB4-4E29-867B-B5921E267080}|lab11_13\\lab11_13.csproj|C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\\u041E\u041E\u041F\\\u041E\u041E\u041F \u0421\u0432\u044F\u0442\u043E\u0441\u043B\u0430\u0432\\lab12_13\\lab11_13\\plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5134CDE6-CAB4-4E29-867B-B5921E267080}|lab11_13\\lab11_13.csproj|solutionrelative:lab11_13\\plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ResultLab12.cs",
+              "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\\u041E\u041E\u041F\\\u041E\u041E\u041F \u0421\u0432\u044F\u0442\u043E\u0441\u043B\u0430\u0432\\lab12_13\\lab11_13\\ResultLab12.cs",
+              "RelativeDocumentMoniker": "lab11_13\\ResultLab12.cs",
+              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\\u041E\u041E\u041F\\\u041E\u041E\u041F \u0421\u0432\u044F\u0442\u043E\u0441\u043B\u0430\u0432\\lab12_13\\lab11_13\\ResultLab12.cs",
+              "RelativeToolTip": "lab11_13\\ResultLab12.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAYwFUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T16:26:02.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ResultLab12.cs [Design]",
+              "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\\u041E\u041E\u041F\\\u041E\u041E\u041F \u0421\u0432\u044F\u0442\u043E\u0441\u043B\u0430\u0432\\lab12_13\\lab11_13\\ResultLab12.cs",
+              "RelativeDocumentMoniker": "lab11_13\\ResultLab12.cs",
+              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\\u041E\u041E\u041F\\\u041E\u041E\u041F \u0421\u0432\u044F\u0442\u043E\u0441\u043B\u0430\u0432\\lab12_13\\lab11_13\\ResultLab12.cs [Design]",
+              "RelativeToolTip": "lab11_13\\ResultLab12.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T16:25:17.652Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ship.cs",
+              "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\\u041E\u041E\u041F\\\u041E\u041E\u041F \u0421\u0432\u044F\u0442\u043E\u0441\u043B\u0430\u0432\\lab12_13\\lab11_13\\Ship.cs",
+              "RelativeDocumentMoniker": "lab11_13\\Ship.cs",
+              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\\u041E\u041E\u041F\\\u041E\u041E\u041F \u0421\u0432\u044F\u0442\u043E\u0441\u043B\u0430\u0432\\lab12_13\\lab11_13\\Ship.cs",
+              "RelativeToolTip": "lab11_13\\Ship.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T15:30:19.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\\u041E\u041E\u041F\\\u041E\u041E\u041F \u0421\u0432\u044F\u0442\u043E\u0441\u043B\u0430\u0432\\lab12_13\\lab11_13\\Car.cs",
+              "RelativeDocumentMoniker": "lab11_13\\Car.cs",
+              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\\u041E\u041E\u041F\\\u041E\u041E\u041F \u0421\u0432\u044F\u0442\u043E\u0441\u043B\u0430\u0432\\lab12_13\\lab11_13\\Car.cs",
+              "RelativeToolTip": "lab11_13\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T15:28:53.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Plane.cs",
+              "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\\u041E\u041E\u041F\\\u041E\u041E\u041F \u0421\u0432\u044F\u0442\u043E\u0441\u043B\u0430\u0432\\lab12_13\\lab11_13\\Plane.cs",
+              "RelativeDocumentMoniker": "lab11_13\\Plane.cs",
+              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\\u041E\u041E\u041F\\\u041E\u041E\u041F \u0421\u0432\u044F\u0442\u043E\u0441\u043B\u0430\u0432\\lab12_13\\lab11_13\\Plane.cs",
+              "RelativeToolTip": "lab11_13\\Plane.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwC0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T15:22:18.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\\u041E\u041E\u041F\\\u041E\u041E\u041F \u0421\u0432\u044F\u0442\u043E\u0441\u043B\u0430\u0432\\lab12_13\\lab11_13\\Vehicle.cs",
+              "RelativeDocumentMoniker": "lab11_13\\Vehicle.cs",
+              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\\u041E\u041E\u041F\\\u041E\u041E\u041F \u0421\u0432\u044F\u0442\u043E\u0441\u043B\u0430\u0432\\lab12_13\\lab11_13\\Vehicle.cs",
+              "RelativeToolTip": "lab11_13\\Vehicle.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwDgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T15:13:42.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\\u041E\u041E\u041F\\\u041E\u041E\u041F \u0421\u0432\u044F\u0442\u043E\u0441\u043B\u0430\u0432\\lab12_13\\lab11_13\\Form1.cs",
+              "RelativeDocumentMoniker": "lab11_13\\Form1.cs",
+              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u0456 \u0440\u043E\u0431\u043E\u0442\u0438\\\u041E\u041E\u041F\\\u041E\u041E\u041F \u0421\u0432\u044F\u0442\u043E\u0441\u043B\u0430\u0432\\lab12_13\\lab11_13\\Form1.cs [Design]",
+              "RelativeToolTip": "lab11_13\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T15:10:47.326Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
